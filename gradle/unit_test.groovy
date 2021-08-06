@@ -1,5 +1,5 @@
 void call(){
-    stage("Gradle: Build"){ 
-        println "build from the gradle library" 
+    stage("Gradle: Unit Test"){ 
+        println "Unit Testing from the gradle library" 
     }
 }
